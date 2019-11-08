@@ -1,0 +1,18 @@
+funcoes: add, list, search, delete, update
+
+
+
+add(nome): adiciona uma tarefa
+    nome: Nome da tarefa
+
+list():lista todas as tarefas
+
+search(id): lista uma tarefa expecifica
+    id: id da tarefa a ser encontrada
+
+delete(id): deleta uma tarefa
+    id: id da tarefa a ser deletada
+
+update(id, nome): muda o nome de uma das tarefas
+    id: id da tarefa a ser modificada
+    nome: novo nome da tarefas
